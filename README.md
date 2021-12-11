@@ -4,6 +4,10 @@ Credit to SeanDaBlack for the basis of the script.
 req.py is selenium python bot.
 sc.js is a the base of the ios shortcut [COMING SOON]
 
+# What is this Bot?
+
+View a [short demo](https://www.tiktok.com/@black_madness21/video/7039823665294232878?source=h5_m&is_copy_url=0&is_from_webapp=v1&sender_device=pc&sender_web_id=6908919605054686725) on TikTok
+
 # Setup
 
 On mac/pc:
@@ -31,3 +35,7 @@ You might also get a trust issue with the downloaded driver being unverified. To
 `xattr -d com.apple.quarantine chromedriver`
 
 this just tells the OS it's safe to use this driver, and Selenium will start working. See https://timonweb.com/misc/fixing-error-chromedriver-cannot-be-opened-because-the-developer-cannot-be-verified-unable-to-launch-the-chrome-browser-on-mac-os/ for more info.
+
+# What is this strike about?
+
+See this [article](https://www.thestand.org/2021/11/heres-how-you-can-support-kelloggs-strikers/) which includes ways you can help.
